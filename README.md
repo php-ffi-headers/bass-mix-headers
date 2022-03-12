@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://github.com/php-ffi-headers/bass-mix-headers/actions"><img src="https://github.com/php-ffi-headers/bass-mix-headers/workflows/build/badge.svg"></a>
     <a href="https://packagist.org/packages/ffi-headers/bass-mix-headers"><img src="https://img.shields.io/badge/PHP-8.1.0-ff0140.svg"></a>
-    <a href="https://packagist.org/packages/ffi-headers/bass-mix-headers"><img src="https://img.shields.io/badge/BASS-2.4.x-cc3c20.svg"></a>
+    <a href="https://packagist.org/packages/ffi-headers/bass-mix-headers"><img src="https://img.shields.io/badge/BASS%20Mix-2.4-cc3c20.svg"></a>
     <a href="https://packagist.org/packages/ffi-headers/bass-mix-headers"><img src="https://poser.pugx.org/ffi-headers/bass-mix-headers/version" alt="Latest Stable Version"></a>
     <a href="https://packagist.org/packages/ffi-headers/bass-mix-headers"><img src="https://poser.pugx.org/ffi-headers/bass-mix-headers/v/unstable" alt="Latest Unstable Version"></a>
     <a href="https://packagist.org/packages/ffi-headers/bass-mix-headers"><img src="https://poser.pugx.org/ffi-headers/bass-mix-headers/downloads" alt="Total Downloads"></a>
